@@ -196,6 +196,7 @@ LLMCHAT__MCP_SERVERS同样为一个dict，key为服务器名称，value配置的
         "support_image": true
     }
     ]
+    '
     LLMCHAT__MCP_SERVERS='
         {
         "AISearch": {
@@ -213,7 +214,7 @@ LLMCHAT__MCP_SERVERS同样为一个dict，key为服务器名称，value配置的
         }
     }
     '
-    '
+    
     
 </details>
 
